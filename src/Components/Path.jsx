@@ -1,1 +1,1 @@
-export const URL_USERS = "http://185.247.17.250:8000/users/";
+export const URL_USERS = "https://aq5092-otn-backend-2297.twc1.net/users/";
